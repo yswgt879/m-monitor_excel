@@ -75,10 +75,11 @@ Excel内に、`内を入力`・`内を変更`・`内をファイルへコピペ`
 
 `hex2bin`　バイナリ形式へ変換<br>
 [hex2bin: hex2bin converts an Intel hex file to binary](https://github.com/algodesigner/hex2bin/tree/master)<br>
+※Unix系（MacやLinux等）の方は、ビルドしてください。<br>
 
 `bin2wav`　音声データ形式へ変換<br>
 [The SHARP Pockets Tools page](http://pocket.free.fr/html/soft/pocket-tools_e.html)<br>
-（Unix系（MacやLinux等）の方は、Sourcesディレクトリ内をビルドしてください）<br>
+※Unix系（MacやLinux等）の方は、Sourcesディレクトリ内をビルドしてください。<br>
 
 ### Excelファイルについて
 
