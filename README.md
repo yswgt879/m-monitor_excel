@@ -69,9 +69,7 @@ Excel内に、`内を入力`・`内を変更`・`内をファイルへコピペ`
 
 `hex2bin`と`bin2wav`は、別途ご用意ください。<br>
 
-`bin2wav`は、PocketToolsに含まれておりますが（Windows版のみ実行ファイル含む）、`hex2bin`は別途ご用意ください。<br>
-
-以下に、リンク先を記します。<br>
+以下に、入手リンク先を記します。<br>
 
 `hex2bin`　Intel HEX形式からバイナリ形式へ変換<br>
 [hex2bin: hex2bin converts an Intel hex file to binary](https://github.com/algodesigner/hex2bin/tree/master)<br>
